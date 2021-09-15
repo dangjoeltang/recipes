@@ -1,0 +1,46 @@
+{  
+  "Hotpot Soup Base": "https://www.99ranch.com/shop/condiments_and_spices/hotpot_base/hrj_spicy_hot_pot_soup_base/p/1564405684709928617",
+  "Ingredients": {
+    "Basa (Swai, Pangaseus)": "1 large fillet",
+    "Chicken Stock": "1-2 cans",
+    "Veggies": {
+      "Bean Sprouts": "1 cup",
+      "Napa Cabbage": "5 Leaves, cut into 2-3 inch segments"
+    },
+    "Aromatics": {
+      "Green Onion": "3 stalks, white only, 2 inch segments (save greens to top)",
+      "Ginger": "2 inches, cut into coins (I prefer 3mm thick slices)",
+      "Szechuan Peppercorns": "1-2 Tablespoons",
+      "Dried red chilis": "small handful, lightly crushed and so the seeds come out a bit",
+      "**Hotpot Soup Base": "3 Tablespoons"
+    },
+    "Marinade": {
+      "Beer or Shaoxing Wine": "2 tbsp",
+      "White Pepper": "1 tsp",
+      "Salt": "1 tsp",
+      "Cornstarch": "2 tbsp",
+      "Egg White": "1 Egg white"
+    }
+  },
+  "Steps": {
+    "Prepare the fish": {
+      "1": "Slice the fish at a bias into thin slices, approximately 0.5-1 cm thick. Similar to sashimi. Pat dry and place in mixing bowl",
+      "2": "add the beer/shaoxing, white pepper, salt, and cornstarch and mix until uniform. Then add the eggwhite and mix until slightly frothy and slippery. Set aside."
+    },
+    "Toast the peppercorns": "Add the Szechuan peppercorns to a dry pan and toast it until aromatic and they leave small bits of oil",
+    "Prepare the soup base": {
+      "1": "heat up a dutch oven or large sauce pot and add oil",
+      "2": "Place the Green onion whites, dried red chilis, and toasted peppercorns in the hot oil, and fry on medium heat until fragrant. (30-60 seconds)",
+      "3": "(Optional) Add some shaoxing wine around the edges to cool the pot down. Should make loud sizzles and mostly evaporate, leaving a nice smell.",
+      "4": "Add the hotpot soup base, breaking it up into smaller pieces",
+      "5": "Add chicken stock until you have preferred amount of liquid, turn heat up to high and bring to boil"
+    },
+    "Cook Veggies": "Place the vegetables into the boiling broth, cook them in the soup until about 80% cooked, then remove and plate them in a big heavy soup bowl.",
+    "Cook Fish": {
+      "1": "When the soup is boiling again, place the marinated fish into it, and cook for a couple minutes, until the fish is no longer translucent.",
+      "2": "Use a strainer or slotted spoon to scoop the fish out, and place it on top of the vegetables in the bowl.",
+      "3": "Scoop the broth into the bowl until everything except a little bit of fish is covered. Garnish with green onion.",
+      "Optional": "fry some chili flakes in oil briefly. Pour on top of the dish at the table when serving."
+    }
+  }
+}
